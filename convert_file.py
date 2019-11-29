@@ -72,7 +72,7 @@ information = 'map_x,' + 'map_y,' + \
 # meta_dados = np.array(additional.metas)
 # print(meta_dados.shape)
 
-np.savetxt(f'converted-{nome}.csv',
+np.savetxt(f'{path_dat}-converted.csv',
            total,
            fmt='%.8f',
            delimiter=',',
