@@ -6,3 +6,9 @@ Requisitos:
 - Orange3 
 - Numpy 
 - Scipy
+
+Run:
+
+'''python convert_file.py'''
+
+Selecionar a pasta com os arquivos
