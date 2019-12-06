@@ -4,7 +4,7 @@ import numbers
 import struct
 
 import numpy as np
-import spectral.io.envi
+# import spectral.io.envi
 from scipy.interpolate import interp1d
 from scipy.io import matlab
 
