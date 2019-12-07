@@ -6,6 +6,9 @@ Requisitos:
 - Orange3 
 - Numpy 
 - Scipy
+Ou (_Recomendado_):
+- Anaconda3
+- Orange3
 
 Run:
 
