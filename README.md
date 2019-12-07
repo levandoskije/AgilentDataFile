@@ -5,7 +5,7 @@ Requisitos:
 - Python 3.6 >
 - Orange3 
 - Numpy 
-- Scipy
+- Scipy    
 Ou (_Recomendado_):
 - Anaconda3
 - Orange3
